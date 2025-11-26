@@ -11,3 +11,6 @@
 ```javascript
 var variable = "Hola, mundo!";
 ```
+
+- [x] hacer una lista
+- [ ] Terminar el tutorial
